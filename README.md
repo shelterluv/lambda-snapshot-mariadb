@@ -1,0 +1,1 @@
+# lambda-snapshot-mariadb
